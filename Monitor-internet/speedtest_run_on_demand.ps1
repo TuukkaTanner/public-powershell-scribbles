@@ -1,6 +1,7 @@
 # Tests internet connection speed via Speedtest CLI tool
 # Only tests the Speed of current network
 # Compares to the latest test if one is available and notes if the speed is within 20% of the last test
+# Compiled by Tuukka Tanner
  
 #Replace the Download URL to where you've uploaded the ZIP file yourself. We will only download this file once. 
 #Latest version can be found at: https://www.speedtest.net/nl/apps/cli
